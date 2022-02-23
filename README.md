@@ -1,1 +1,1 @@
-# Odevler
+# Html ve css icin alistirmalar.
